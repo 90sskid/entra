@@ -171,19 +171,19 @@
                         slidesPerView: 4,
                     },
                     1199: {
-                        slidesPerView: 3,
+                        slidesPerView: 4.5,
                     },
                     991: {
-                        slidesPerView: 2,
+                        slidesPerView: 4.5,
                     },
                     767: {
-                        slidesPerView: 2,
+                        slidesPerView: 2.5,
                     },
                     575: {
-                        slidesPerView: 1,
+                        slidesPerView: 2.5,
                     },
                     0: {
-                        slidesPerView: 1,
+                        slidesPerView: 2.5,
                     },
                 },
             });
