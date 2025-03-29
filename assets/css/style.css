@@ -4985,7 +4985,7 @@ html.lenis, html.lenis body {
   background-color: #1c1c24;
   border: 1px solid #1f2930;
   border-radius: 18px;
-  padding: 10px;
+  padding: 5px;
   margin-bottom: 30px;
 }
 .single-feature-inner .title {
@@ -5044,7 +5044,7 @@ html.lenis, html.lenis body {
   color: #111;
 }
 .single-feature-inner .details {
-  padding: 20px 5px;
+  padding: 10px 5px;
 }
 .single-feature-inner .details .left h5 {
   font-weight: 500;
@@ -9328,4 +9328,12 @@ html.lenis, html.lenis body {
 .row.custom-gap {
   --bs-gutter-x: 20px !important; /* Adjust the horizontal gap */
   --bs-gutter-y: 20px !important; /* Adjust the vertical gap */
+}
+
+.thumb img {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 400px !important;
+  max-height: 400px !important;
+  object-fit: cover !important; 
 }
